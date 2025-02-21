@@ -8,4 +8,4 @@ As an aspiring SOC analyst, I was genuinely excited to complete TryHackMe’s de
 
 
 # Certificate:
-![THM](https://github.com/blwhit/SOC-Training/assets/141170960/aa961414-ec8b-42ee-babf-5421b2d7a014)
+![THM](https://tryhackme.com/certificate/THM-4OYQNHJC2S)
