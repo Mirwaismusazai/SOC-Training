@@ -17,5 +17,4 @@ As an aspiring SOC analyst, I was genuinely excited to complete TryHackMe’s de
 
 
 
-# Certificate:
-![THM](https://tryhackme.com/certificate/THM-4OYQNHJC2S)
+
